@@ -1,0 +1,2 @@
+# Hospital_Management_System1
+ A Hospital Management System (HMS) is a web-based application that streamlines hospital operations. It includes doctor and admin logins, where doctors manage patients and medicines, while admins handle appointments. The system efficiently stores patient records, schedules appointments, and ensures seamless communication between doctors and admins. Built with Angular and Spring Boot, it provides a user-friendly interface, secure data management, and efficient workflow automation, improving hospital efficiency and patient care.
