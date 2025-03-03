@@ -1,0 +1,91 @@
+General Styles
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Light background for the page */
+}
+
+.navbar {
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.navbar .btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.navbar .btn a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar .btn:hover {
+    opacity: 0.9;
+}
+
+/* Carousel Styles */
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.carousel-caption h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.carousel-caption .btn {
+    margin: 5px;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.carousel-caption .btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.carousel-caption .btn-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+.carousel-caption .btn-primary {
+    background-color: #007bff;
+    color: white;
+}
+
+.carousel-caption .btn-success {
+    background-color: #28a745;
+    color: white;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+}
